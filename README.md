@@ -1,4 +1,4 @@
-Namma-Vastra 👗✨
+Namma-Vastra 👗
 
 Namma-Vastra is an Android application designed to connect traditional handloom weavers directly with customers through a modern and interactive platform. The app promotes local craftsmanship by providing a digital marketplace experience with real-time interaction, product browsing, pricing assistance, and customer engagement features.
 
@@ -9,7 +9,7 @@ Browse handwoven sarees and textile collections
 View saree details uploaded by weavers
 Explore different weaving styles and colors
 
-💬 WhatsApp-Style Chat System
+ WhatsApp-Style Chat System
 Interactive natural conversation flow
 Seller and customer communication simulation
 Smooth order confirmation experience
