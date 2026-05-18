@@ -2,9 +2,9 @@ Namma-Vastra 👗✨
 
 Namma-Vastra is an Android application designed to connect traditional handloom weavers directly with customers through a modern and interactive platform. The app promotes local craftsmanship by providing a digital marketplace experience with real-time interaction, product browsing, pricing assistance, and customer engagement features.
 
-📱 Features
+ Features
 
-🧵 Loom Gallery
+ Loom Gallery
 Browse handwoven sarees and textile collections
 View saree details uploaded by weavers
 Explore different weaving styles and colors
@@ -14,29 +14,29 @@ Interactive natural conversation flow
 Seller and customer communication simulation
 Smooth order confirmation experience
 
-💰 Smart Price Calculation
+ Smart Price Calculation
 Automatic GST and shipping calculation
 Transparent pricing system
 
-📦 Order Confirmation Page
+ Order Confirmation Page
 Premium payment success UI
 Detailed order summary
 Invoice and review options
 
-⭐ Review System
+ Review System
 Customers can submit reviews and ratings
 Dedicated review showcase page
 Improves trust and engagement
 
-🎨 Trend Board
+ Trend Board
 Displays trending colors and patterns
 Fashion insights for urban markets
 
-📖 Weaver Story
+ Weaver Story
 Highlights artisan stories and cultural heritage
 Encourages awareness of traditional weaving communities
 
-🛠️ Tech Stack
+ Tech Stack
 Language: Kotlin
 IDE: Android Studio
 UI: XML + Material Design Components
@@ -47,17 +47,17 @@ Material UI Components for modern interface
 
 
 
-🚀 App Flow
+ App Flow
 Login → Loom Gallery → Product Chat →
 Payment Confirmation → Review Submission
 
-🎯 Objectives
+ Objectives
 Promote Indian handloom products digitally
 Empower local weavers through direct customer interaction
 Preserve traditional textile culture
 Create a user-friendly textile commerce platform
 
-📸 Screens Included
+ Screens Included
 Login & Signup
 Loom Gallery
 WhatsApp-style Chat UI
@@ -66,14 +66,15 @@ Review Page
 Trend Board
 Weaver Story
 
-🔮 Future Enhancements
+ Future Enhancements
 Real UPI/Razorpay payment integration
 Firebase Authentication
 Live chat with real weavers
 Order tracking system
 AI-based saree recommendations
 Wishlist and cart features
-👩‍💻 Developed Using
+
+ Developed Using
 Android Studio
 Kotlin
 XML Layouts
