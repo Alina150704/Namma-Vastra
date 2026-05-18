@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp">
+
+    <!-- User Message (Right - Green) -->
+    <LinearLayout
+        android:id="@+id/userMessageLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:background="@drawable/user_message_bubble"
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:maxWidth="260dp">
+
+        <TextView
+            android:id="@+id/userMessageText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/userTimeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Just now"
+            android:textSize="10sp"
+            android:textColor="#CCFFFFFF"
+            android:layout_marginTop="4dp" />
+
+    </LinearLayout>
+
+    <!-- Seller Message (Left - Gray) -->
+    <LinearLayout
+        android:id="@+id/sellerMessageLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@drawable/seller_message_bubble"
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:maxWidth="260dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/sellerMessageText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#212121"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/sellerTimeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Just now"
+            android:textSize="10sp"
+            android:textColor="#757575"
+            android:layout_marginTop="4dp" />
+
+    </LinearLayout>
+
+</FrameLayout>

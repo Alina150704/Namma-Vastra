@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_trend_board">
+
+    <fragment
+        android:id="@+id/navigation_trend_board"
+        android:name="com.example.nammavastra.ui.TrendBoardFragment"
+        android:label="Trend Board"
+        tools:layout="@layout/fragment_trend_board" />
+
+    <fragment
+        android:id="@+id/navigation_loom_gallery"
+        android:name="com.example.nammavastra.ui.LoomGalleryFragment"
+        android:label="Loom Gallery"
+        tools:layout="@layout/fragment_loom_gallery" />
+
+    <fragment
+        android:id="@+id/navigation_price_calculator"
+        android:name="com.example.nammavastra.ui.PriceCalculatorFragment"
+        android:label="Price Calculator"
+        tools:layout="@layout/fragment_price_calculator" />
+
+    <fragment
+        android:id="@+id/navigation_weaver_story"
+        android:name="com.example.nammavastra.ui.WeaverStoryFragment"
+        android:label="Weaver's Story"
+        tools:layout="@layout/fragment_weaver_story" />
+
+    <!-- ✅ NEW FRAGMENT -->
+    <fragment
+        android:id="@+id/navigation_reviews"
+        android:name="com.example.nammavastra.ui.ReviewFragment"
+        android:label="Reviews"
+        tools:layout="@layout/fragment_review" />
+
+</navigation>

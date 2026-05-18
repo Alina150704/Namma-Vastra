@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Traditional Ilkal Saree Pattern -->
+    <path
+        android:fillColor="#E8D5B7"
+        android:pathData="M0,0 L200,0 L200,200 L0,200 Z"/>
+
+    <!-- Border Design -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M0,20 L200,20 L200,40 L0,40 Z"/>
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M0,160 L200,160 L200,180 L0,180 Z"/>
+
+    <!-- Pallu Area (Red) -->
+    <path
+        android:fillColor="#B22222"
+        android:pathData="M0,60 L80,60 L80,140 L0,140 Z"/>
+
+    <!-- Temple Motifs -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M30,80 L40,70 L50,80 L40,90 Z"/>
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M70,80 L80,70 L90,80 L80,90 Z"/>
+
+    <!-- Body Design -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M100,50 L120,50 L120,150 L100,150 Z"/>
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M140,50 L160,50 L160,150 L140,150 Z"/>
+
+</vector>

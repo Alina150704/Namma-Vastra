@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">nammavastra</string>
+
+    <!-- Trends -->
+    <string name="trending_colors_patterns">Trending Colors &amp; Patterns</string>
+    <string name="curated_fashion_insights">Curated fashion insights for urban markets</string>
+    <string name="no_trends_available">No trends available</string>
+
+    <!-- Loom Gallery -->
+    <string name="loom_gallery">Loom Gallery</string>
+    <string name="fresh_from_loom">Fresh from the loom - Direct from weavers</string>
+    <string name="no_sarees_uploaded">No sarees uploaded yet.\nTap + to share your creation!</string>
+
+    <!-- Upload -->
+    <string name="upload_your_saree">Upload Your Saree</string>
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+    <string name="fill_required_fields">Please fill all required fields</string>
+    <string name="saree_uploaded_success">Saree uploaded successfully!</string>
+    <string name="permissions_required_upload">Permissions required to upload images</string>
+    <string name="failed_to_save">Failed to save: %1$s</string>
+    <string name="failed_to_upload_image">Failed to upload image: %1$s</string>
+    <string name="failed_to_load_sarees">Failed to load sarees: %1$s</string>
+
+    <!-- Upload Dialog -->
+    <string name="saree_title_hint">Saree Title *</string>
+    <string name="description_hint">Description *</string>
+    <string name="weaver_name_hint">Weaver Name *</string>
+    <string name="location_hint">Location</string>
+    <string name="whatsapp_number_hint">WhatsApp Number (with country code) *</string>
+
+    <!-- Payment Summary -->
+    <string name="payment_successful">Payment Successful</string>
+    <string name="order_confirmed">Your order has been confirmed</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_id_label">Order ID:</string>
+    <string name="order_id_placeholder">NV12345678</string>
+    <string name="payment_status_label">Payment Status:</string>
+    <string name="payment_status_success">Successful</string>
+    <string name="product_name_placeholder">Product Name</string>
+    <string name="seller_name_placeholder">Seller Name</string>
+    <string name="base_price_label">Base Price:</string>
+    <string name="price_placeholder">₹0.00</string>
+    <string name="shipping_label">Shipping:</string>
+    <string name="tax_label">Tax (GST):</string>
+    <string name="total_paid_label">Total Paid:</string>
+    <string name="write_review">Write a Review</string>
+    <string name="download_invoice">Download Invoice</string>
+    <string name="back_to_gallery">Back to Gallery</string>
+
+    <!-- Chat UI (🔥 IMPORTANT ADDITION) -->
+    <string name="go_back">Go back</string>
+    <string name="seller_name">Seller</string>
+    <string name="seller_online">Online</string>
+    <string name="open_camera">Open camera</string>
+    <string name="call_seller">Call seller</string>
+    <string name="more_options">More options</string>
+    <string name="typing">Seller is typing...</string>
+    <string name="attach_file">Attach file</string>
+    <string name="type_message">Type a message...</string>
+    <string name="send_message">Send message</string>
+    <string name="seller_profile">Seller profile image</string>
+
+</resources>
